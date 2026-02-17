@@ -35,7 +35,12 @@
             <artifactId>spring-webmvc</artifactId>
         </dependency>
     </dependencies>
-
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <url>https://github.com/philipwmitilinos-max/Exception-Handler.git</url>
+        </repository>
+    </distributionManagement>
     <build>
         <plugins>
             <plugin>
