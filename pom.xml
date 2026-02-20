@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>se.iths.philip</groupId>
-    <artifactId>Exception-Handler</artifactId>
-    <version>2.0.0-SNAPSHOT</version>
-    <name>Exception-Handler</name>
-    <description>Exception-Handler</description>
+    <artifactId>ExceptionHandler</artifactId>
+    <version>2.0.1-SNAPSHOT</version>
+    <name>ExceptionHandler</name>
+    <description>ExceptionHandler</description>
     <url/>
     <licenses>
         <license/>
@@ -38,11 +38,11 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <url>https://github.com/philipwmitilinos-max/Exception-Handler</url>
+            <url>https://github.com/philipwmitilinos-max/ExceptionHandler</url>
         </repository>
     </distributionManagement>
     <build>
-        
+
     </build>
 
 </project>
