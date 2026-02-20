@@ -9,8 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>se.iths.philip</groupId>
-    <artifactId>ExceptionHandler</artifactId>
-    <version>2.0.1-SNAPSHOT</version>
+    <artifactId>exceptionHandler</artifactId>
+    <version>3.0.0</version>
     <name>ExceptionHandler</name>
     <description>ExceptionHandler</description>
     <url/>
