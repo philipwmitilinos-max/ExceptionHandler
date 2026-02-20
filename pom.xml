@@ -38,7 +38,7 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <url>https://github.com/philipwmitilinos-max/ExceptionHandler</url>
+            <url>https://maven.pkg.github.com/philipwmitilinos-max/ExceptionHandler</url>
         </repository>
     </distributionManagement>
     <build>
